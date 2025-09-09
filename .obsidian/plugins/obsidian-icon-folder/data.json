@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLogs",
       "LiTable2",
       "LiHome",
       "LiLayoutTemplate",
-      "LiCalendarDays",
-      "LiBrain"
+      "LiCalendarDays"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "Ежедневные заметки": "LiCalendarDays",
   "Шаблоны": "LiLayoutTemplate",
   "root.md": "LiHome",
-  "Рабочие задачи (Kanban).md": "LiTable2"
+  "Рабочие задачи (Kanban).md": "LiTable2",
+  "Логи": "LiLogs"
 }
