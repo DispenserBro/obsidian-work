@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "obsidian-git:commit-smart",
+    "obsidian-git:push2",
+    "obsidian-git:pull",
+    "graph:open",
+    "templater-obsidian:create-new-note-from-template"
+  ]
+}
