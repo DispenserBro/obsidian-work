@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "ec11d2575824ecae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f5ddef0983926aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e419ff9b7d8c48ea",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Рабочие задачи.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Рабочие задачи"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c28de42e4fe99aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1c67d36c77813e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e70f6fdae8dd118",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b29aa5df0be6a608",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f14bbf37d2153543",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20584de1b1b0858f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f86f3161ca55ab29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a3a6b6b78286d81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Добро пожаловать"
+            }
+          },
+          {
+            "id": "c9fe3bc371411b5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "da9c254bf79ca45f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e78f94b42ae6a1e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Добро пожаловать"
+            }
+          },
+          {
+            "id": "a0dcb3cffba23283",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Добро пожаловать.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Пространства": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e419ff9b7d8c48ea",
+  "lastOpenFiles": [
+    "root.md",
+    "Рабочие задачи.md",
+    "Добро пожаловать.md"
+  ]
+}
