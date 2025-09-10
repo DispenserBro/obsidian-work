@@ -8,7 +8,7 @@
 
 ## CHANGELOG
 
-[[Логи/CHANGELOG_{{date: YYYY-MM-DD}} |CHANGELOG_{{date: YYYY-MM-DD}}]]
+[[Логи/CHANGELOG_{{date:YYYY-MM-DD}} |CHANGELOG_{{date:YYYY-MM-DD}}]]
 
 ## Мысли за день
 
