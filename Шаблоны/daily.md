@@ -1,4 +1,4 @@
-# День: {{date: dddd, DD MMM YYYY}}
+# День: {{date:dddd, DD MMM YYYY}}
 
 ## TODO
 
@@ -12,4 +12,4 @@
 
 ## Мысли за день
 
-[[Мысли/Мысли за {{date: dddd, DD MMM YYYY}} |Мысли за {{date: dddd, DD MMM YYYY}}]]
+[[Мысли/Мысли за {{date:dddd, DD MMM YYYY}} |Мысли за {{date:dddd, DD MMM YYYY}}]]
