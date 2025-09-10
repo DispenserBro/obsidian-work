@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root.md",
+                "file": "Ежедневные заметки/2025-09-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-10"
+            }
+          },
+          {
+            "id": "d2ff2a399e8c65fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мысли/Мысли за вторник, 09 сент. 2025.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "root"
+              "title": "Мысли за вторник, 09 сент. 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -226,14 +241,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d2ff2a399e8c65fe",
   "lastOpenFiles": [
+    "Ежедневные заметки/2025-09-10.md",
+    "Мысли/Мысли за вторник, 09 сент. 2025.md",
+    "Ежедневные заметки/2025-09-09.md",
+    "Логи/CHANGELOG_ 2025-09-10.md",
     "root.md",
     "Логи/CHANGELOG_2025-09-09.md",
-    "Ежедневные заметки/2025-09-09.md",
     "Шаблоны/daily.md",
     "Безымянная Kanban-доска.md",
-    "Мысли/Мысли за вторник, 09 сент. 2025.md",
     "Рабочие задачи (Kanban).md",
     "Шаблоны/лог.md",
     "Логи",
