@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "557573ea39a46ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6118dc3a19795420",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для root"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шаблоны/daily.md",
+                "file": "root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из daily"
+              "title": "Исходящие ссылки из root"
             }
           },
           {
@@ -206,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,18 +228,21 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6118dc3a19795420",
   "lastOpenFiles": [
-    "Рабочие задачи.md",
     "Индекс заметок.md",
+    "Ежедневные заметки/2025-09-12.md",
+    "Мысли/Мысли за пятница, 12 сент. 2025.md",
+    "Логи/CHANGELOG_2025-09-12.md",
     "Ежедневные заметки/2025-09-11.md",
+    "root.md",
+    "Шаблоны/лог.md",
+    "Рабочие задачи.md",
     "Ежедневные заметки/2025-09-10.md",
     "Ежедневные заметки/2025-09-09.md",
     "Логи/CHANGELOG_2025-09-11.md",
     "Мысли/Мысли за четверг, 11 сент. 2025.md",
     "Мысли/Мысли за вторник, 09 сент. 2025.md",
-    "root.md",
-    "Шаблоны/лог.md",
     "Шаблоны/daily.md",
     "Логи/CHANGELOG_2025-09-10.md",
     "Мысли/Мысли за среда, 10 сент. 2025.md",
