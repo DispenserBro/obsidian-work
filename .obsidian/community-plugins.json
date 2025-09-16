@@ -13,5 +13,6 @@
   "obsidian-icon-folder",
   "homepage",
   "callout-manager",
-  "dataview-serializer"
+  "dataview-serializer",
+  "metaedit"
 ]

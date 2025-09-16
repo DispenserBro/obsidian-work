@@ -1,3 +1,6 @@
+---
+description: Шаблон для ежедневных заметок
+---
 # День: {{date:dddd, DD MMM YYYY}}
 
 ## TODO
