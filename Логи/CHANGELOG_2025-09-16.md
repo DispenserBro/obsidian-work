@@ -1,5 +1,5 @@
 ---
-description: Шаблон для ежедневных чейнждлогов
+tags: logs
 ---
 ## Added
 
