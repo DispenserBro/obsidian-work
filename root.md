@@ -23,7 +23,9 @@ not done
 ```
 
 ##### 🗃️Последние изменения:
-`$= dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)`
+```dataviewjs
+dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)
+```
 
 
 # Инфо об игре
