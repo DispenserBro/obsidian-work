@@ -5,6 +5,14 @@ tags:
 
 # День: {{date:dddd, DD MMM YYYY}}
 
+## PENDING
+
+```tasks
+path does not include Рабочие задачи
+path does not include Шаблоны
+not done
+```
+
 ## TODO
 
 - [ ] Рефакторинг кода!
