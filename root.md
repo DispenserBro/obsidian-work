@@ -35,5 +35,13 @@ path does not include Шаблоны
 not done
 ```
 
+## Отмененные задачи
+
+```tasks
+path does not include Рабочие задачи
+path does not include Шаблоны
+done
+```
+
 ## Инфо об игре
 ![[Структура уровня.png|Структура уровня]]
