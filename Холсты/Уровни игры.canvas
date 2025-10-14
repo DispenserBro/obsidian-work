@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"101c136501b06115","x":-1660,"y":-920,"width":1783,"height":360,"type":"group","label":"Первый уровень"},
+		{"id":"fdff7663161fb2f8","type":"file","file":"img/Предварительный_план_первого_уровня.jpg","x":-1000,"y":-900,"width":1103,"height":320},
+		{"id":"d7fd8071e148443a","type":"text","text":"14.10.25\nЛеха предолжил новую труктуру 1 уровня (и 1 локации)","x":-1640,"y":-900,"width":560,"height":60}
+	],
+	"edges":[
+		{"id":"197f74a5d1d14b1c","fromNode":"d7fd8071e148443a","fromSide":"right","toNode":"fdff7663161fb2f8","toSide":"left"}
+	]
+}
