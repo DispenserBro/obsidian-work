@@ -32,6 +32,7 @@ dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)
 ```tasks
 path does not include Рабочие задачи
 path does not include Шаблоны
+path does not include Мысли
 not done
 ```
 
