@@ -16,13 +16,15 @@
 		{"id":"6c9b2e1ca6b3b0ac","x":-2380,"y":-2331,"width":267,"height":60,"color":"3","type":"text","text":"На рассмотрении"},
 		{"id":"a1a9f074a672d76e","x":-2380,"y":-2231,"width":267,"height":60,"color":"2","type":"text","text":"Перенесено/заморожено"},
 		{"id":"e0bbfe8ed2ec8f95","x":-2381,"y":-2131,"width":268,"height":60,"color":"1","type":"text","text":"Отменено"},
-		{"id":"ea9d4365ee39ddc0","x":-2380,"y":-2031,"width":267,"height":60,"color":"5","type":"text","text":"Под вопросом"}
+		{"id":"ea9d4365ee39ddc0","x":-2380,"y":-2031,"width":267,"height":60,"color":"5","type":"text","text":"Под вопросом"},
+		{"id":"1967bd1b2abe649f","x":-1043,"y":-1614,"width":250,"height":60,"type":"text","text":"Передали задачу дизайнерам"}
 	],
 	"edges":[
 		{"id":"197f74a5d1d14b1c","fromNode":"d7fd8071e148443a","fromSide":"right","toNode":"fdff7663161fb2f8","toSide":"left"},
 		{"id":"fb9030298d22de66","fromNode":"ea4b6740cf93df80","fromSide":"right","toNode":"1948cca87d501423","toSide":"left"},
 		{"id":"b4dbbe17acc172d5","fromNode":"1948cca87d501423","fromSide":"right","toNode":"56fa4868d76cc808","toSide":"left"},
 		{"id":"20cce2b3adfa1a91","fromNode":"1948cca87d501423","fromSide":"right","toNode":"b3fbb7dc3e7cb053","toSide":"left"},
-		{"id":"9db207627f22eeaf","fromNode":"7c7d525ee05e92ab","fromSide":"right","toNode":"cc01227749cb5156","toSide":"left"}
+		{"id":"9db207627f22eeaf","fromNode":"7c7d525ee05e92ab","fromSide":"right","toNode":"cc01227749cb5156","toSide":"left"},
+		{"id":"af0b08f3217e9306","fromNode":"cc01227749cb5156","fromSide":"right","toNode":"1967bd1b2abe649f","toSide":"left"}
 	]
 }
