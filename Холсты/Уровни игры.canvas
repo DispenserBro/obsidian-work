@@ -1,12 +1,21 @@
 {
 	"nodes":[
-		{"id":"ca9a01368d64b628","x":-1660,"y":-2280,"width":1400,"height":1085,"type":"group","label":"Предложения мехник и дизайна"},
+		{"id":"ca9a01368d64b628","type":"group","x":-1660,"y":-2280,"width":1400,"height":1085,"label":"Предложения механик и дизайна"},
 		{"id":"101c136501b06115","type":"group","x":-1660,"y":-920,"width":1783,"height":360,"label":"Первый уровень"},
+		{"id":"7915882c32456281","x":406,"y":-1929,"width":400,"height":400,"type":"group","label":"Группа без названия"},
 		{"id":"fdff7663161fb2f8","type":"file","file":"img/Предварительный_план_первого_уровня.jpg","x":-1000,"y":-900,"width":1103,"height":320},
 		{"id":"d7fd8071e148443a","type":"text","text":"14.10.25\nЛеха предолжил новую труктуру 1 уровня (и 1 локации)","x":-1640,"y":-900,"width":560,"height":60},
-		{"id":"ea4b6740cf93df80","x":-1620,"y":-2240,"width":250,"height":60,"type":"text","text":"Лестницы"}
+		{"id":"ea4b6740cf93df80","type":"text","text":"Лестницы","x":-1620,"y":-2240,"width":250,"height":60},
+		{"id":"151c728bb0bbddd1","x":-1620,"y":-2140,"width":250,"height":60,"type":"text","text":"Чекпоинты\n"},
+		{"id":"7c7d525ee05e92ab","x":-1620,"y":-2040,"width":250,"height":60,"type":"text","text":"Новый дизайн игрока"},
+		{"id":"1948cca87d501423","x":-1000,"y":-2240,"width":148,"height":400,"type":"file","file":"img/Pasted image 20251015104856.png"},
+		{"id":"56fa4868d76cc808","x":-740,"y":-2240,"width":223,"height":60,"color":"4","type":"text","text":"Механика подъема по лестнице"},
+		{"id":"b3fbb7dc3e7cb053","x":-740,"y":-2140,"width":223,"height":60,"color":"2","type":"text","text":"Другая текстура"}
 	],
 	"edges":[
-		{"id":"197f74a5d1d14b1c","fromNode":"d7fd8071e148443a","fromSide":"right","toNode":"fdff7663161fb2f8","toSide":"left"}
+		{"id":"197f74a5d1d14b1c","fromNode":"d7fd8071e148443a","fromSide":"right","toNode":"fdff7663161fb2f8","toSide":"left"},
+		{"id":"fb9030298d22de66","fromNode":"ea4b6740cf93df80","fromSide":"right","toNode":"1948cca87d501423","toSide":"left"},
+		{"id":"b4dbbe17acc172d5","fromNode":"1948cca87d501423","fromSide":"right","toNode":"56fa4868d76cc808","toSide":"left"},
+		{"id":"20cce2b3adfa1a91","fromNode":"1948cca87d501423","fromSide":"right","toNode":"b3fbb7dc3e7cb053","toSide":"left"}
 	]
 }
