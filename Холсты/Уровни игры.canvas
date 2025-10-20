@@ -11,13 +11,19 @@
 		{"id":"ea9d4365ee39ddc0","type":"text","text":"Под вопросом","x":-2380,"y":-2031,"width":267,"height":60,"color":"5"},
 		{"id":"1948cca87d501423","type":"file","file":"img/Pasted image 20251015104856.png","x":-1100,"y":-2410,"width":148,"height":399},
 		{"id":"56fa4868d76cc808","type":"text","text":"Механика подъема по лестнице","x":-840,"y":-2340,"width":223,"height":60,"color":"4"},
-		{"id":"151c728bb0bbddd1","type":"text","text":"Чекпоинты\n","x":-1740,"y":-1940,"width":250,"height":60},
+		{"id":"151c728bb0bbddd1","type":"text","text":"Чекпоинты\n","x":-1740,"y":-1940,"width":250,"height":60,"color":"4"},
 		{"id":"7c7d525ee05e92ab","type":"text","text":"Новый дизайн игрока","x":-1740,"y":-1500,"width":250,"height":60},
 		{"id":"fdff7663161fb2f8","type":"file","file":"img/Предварительный_план_первого_уровня.jpg","x":-1000,"y":-900,"width":1103,"height":320},
 		{"id":"d7fd8071e148443a","type":"text","text":"14.10.25\nЛеха предолжил новую труктуру 1 уровня (и 1 локации)","x":-1640,"y":-900,"width":560,"height":60},
 		{"id":"cc01227749cb5156","type":"file","file":"img/Pasted image 20251015124932.png","x":-1340,"y":-1590,"width":183,"height":240},
 		{"id":"b3fbb7dc3e7cb053","type":"text","text":"Другая текстура","x":-840,"y":-2240,"width":223,"height":60,"color":"2"},
-		{"id":"1967bd1b2abe649f","type":"text","text":"Передали задачу дизайнерам","x":-1043,"y":-1614,"width":250,"height":60}
+		{"id":"1967bd1b2abe649f","type":"text","text":"Передали задачу дизайнерам","x":-1043,"y":-1614,"width":250,"height":60,"color":"4"},
+		{"id":"3b4f885d0e9788f6","x":-1765,"y":-400,"width":250,"height":60,"type":"text","text":"Зона 1"},
+		{"id":"f7989a46eac7169c","x":-572,"y":-400,"width":250,"height":60,"type":"text","text":"Зона 2"},
+		{"id":"90ec22fdbe315bf2","x":-2182,"y":-220,"width":1085,"height":491,"type":"file","file":"img/Pasted image 20251020165506.png"},
+		{"id":"939c6032dde46bff","x":-985,"y":-220,"width":1075,"height":491,"type":"file","file":"img/Pasted image 20251020165620.png"},
+		{"id":"b693e9c26d8df202","x":203,"y":-220,"width":1100,"height":770,"type":"file","file":"img/Pasted image 20251020165731.png"},
+		{"id":"546f1143869dc79a","x":618,"y":-400,"width":271,"height":60,"type":"text","text":"Зона 3 (Была зоной 5)"}
 	],
 	"edges":[
 		{"id":"197f74a5d1d14b1c","fromNode":"d7fd8071e148443a","fromSide":"right","toNode":"fdff7663161fb2f8","toSide":"left"},
@@ -25,6 +31,12 @@
 		{"id":"b4dbbe17acc172d5","fromNode":"1948cca87d501423","fromSide":"right","toNode":"56fa4868d76cc808","toSide":"left"},
 		{"id":"20cce2b3adfa1a91","fromNode":"1948cca87d501423","fromSide":"right","toNode":"b3fbb7dc3e7cb053","toSide":"left"},
 		{"id":"9db207627f22eeaf","fromNode":"7c7d525ee05e92ab","fromSide":"right","toNode":"cc01227749cb5156","toSide":"left"},
-		{"id":"af0b08f3217e9306","fromNode":"cc01227749cb5156","fromSide":"right","toNode":"1967bd1b2abe649f","toSide":"left"}
+		{"id":"af0b08f3217e9306","fromNode":"cc01227749cb5156","fromSide":"right","toNode":"1967bd1b2abe649f","toSide":"left"},
+		{"id":"10c173e159f0b2e9","fromNode":"fdff7663161fb2f8","fromSide":"bottom","toNode":"3b4f885d0e9788f6","toSide":"top"},
+		{"id":"cb21477ae2edfa49","fromNode":"3b4f885d0e9788f6","fromSide":"bottom","toNode":"90ec22fdbe315bf2","toSide":"top"},
+		{"id":"1f928b50a7dfc536","fromNode":"fdff7663161fb2f8","fromSide":"bottom","toNode":"f7989a46eac7169c","toSide":"top"},
+		{"id":"7a0c9cb0fd3c4d41","fromNode":"f7989a46eac7169c","fromSide":"bottom","toNode":"939c6032dde46bff","toSide":"top"},
+		{"id":"ea10349d3cc56826","fromNode":"fdff7663161fb2f8","fromSide":"bottom","toNode":"546f1143869dc79a","toSide":"top"},
+		{"id":"dba2cfcae239b599","fromNode":"546f1143869dc79a","fromSide":"bottom","toNode":"b693e9c26d8df202","toSide":"top"}
 	]
 }
