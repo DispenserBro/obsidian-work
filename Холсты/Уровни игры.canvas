@@ -18,12 +18,12 @@
 		{"id":"cc01227749cb5156","type":"file","file":"img/Pasted image 20251015124932.png","x":-1340,"y":-1590,"width":183,"height":240},
 		{"id":"b3fbb7dc3e7cb053","type":"text","text":"Другая текстура","x":-840,"y":-2240,"width":223,"height":60,"color":"2"},
 		{"id":"1967bd1b2abe649f","type":"text","text":"Передали задачу дизайнерам","x":-1043,"y":-1614,"width":250,"height":60,"color":"4"},
-		{"id":"3b4f885d0e9788f6","x":-1765,"y":-400,"width":250,"height":60,"type":"text","text":"Зона 1"},
-		{"id":"f7989a46eac7169c","x":-572,"y":-400,"width":250,"height":60,"type":"text","text":"Зона 2"},
-		{"id":"90ec22fdbe315bf2","x":-2182,"y":-220,"width":1085,"height":491,"type":"file","file":"img/Pasted image 20251020165506.png"},
-		{"id":"939c6032dde46bff","x":-985,"y":-220,"width":1075,"height":491,"type":"file","file":"img/Pasted image 20251020165620.png"},
-		{"id":"b693e9c26d8df202","x":203,"y":-220,"width":1100,"height":770,"type":"file","file":"img/Pasted image 20251020165731.png"},
-		{"id":"546f1143869dc79a","x":618,"y":-400,"width":271,"height":60,"type":"text","text":"Зона 3 (Была зоной 5)"}
+		{"id":"3b4f885d0e9788f6","type":"text","text":"Зона 1","x":-1765,"y":-400,"width":250,"height":60},
+		{"id":"f7989a46eac7169c","type":"text","text":"Зона 2","x":-572,"y":-400,"width":250,"height":60},
+		{"id":"90ec22fdbe315bf2","type":"file","file":"img/Pasted image 20251020165506.png","x":-2182,"y":-220,"width":1085,"height":491},
+		{"id":"939c6032dde46bff","type":"file","file":"img/Pasted image 20251020165620.png","x":-985,"y":-220,"width":1075,"height":491},
+		{"id":"b693e9c26d8df202","type":"file","file":"img/Pasted image 20251020165731.png","x":203,"y":-220,"width":1100,"height":770},
+		{"id":"546f1143869dc79a","type":"text","text":"Зона 3 (Была зоной 5)","x":618,"y":-400,"width":271,"height":60}
 	],
 	"edges":[
 		{"id":"197f74a5d1d14b1c","fromNode":"d7fd8071e148443a","fromSide":"right","toNode":"fdff7663161fb2f8","toSide":"left"},
