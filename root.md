@@ -23,6 +23,12 @@
 
 [Папка на Пандоре](file:///B:\!ФайлОбменник!\Юнити_Разработка) - Там находятся общее рабочее хранилище и общие папки для геймдева
 
+### Ссылки на сайты для фона
+
+[Youtube](https://youtube.com)
+[Аудиокниги клуб](https://akniga.org)
+[Книга в ухе](https://knigavuhe.org)
+
 ## 🗃️Последние изменения файлов
 ```dataviewjs
 dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)
