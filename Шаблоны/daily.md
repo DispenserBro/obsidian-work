@@ -20,8 +20,8 @@ not done
 
 ## CHANGELOG
 
-[[Логи/CHANGELOG_{{date:YYYY-MM-DD}} |CHANGELOG_{{date:YYYY-MM-DD}}]]
+[[Логи/{{date:YYYY}}/{{date:MMMM}}/CHANGELOG_{{date:YYYY-MM-DD}} |CHANGELOG_{{date:YYYY-MM-DD}}]]
 
 ## Мысли за день
 
-[[Мысли/Мысли за {{date:dddd, DD MMM YYYY}} |Мысли за {{date:dddd, DD MMM YYYY}}]]
+[[Мысли/{{date:YYYY}}/{{date:MMMM}}/Мысли за {{date:dddd, DD MMM YYYY}} |Мысли за {{date:dddd, DD MMM YYYY}}]]
