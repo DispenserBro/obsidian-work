@@ -54,6 +54,8 @@
 [Surfing](https://github.com/PKM-er/Obsidian-Surfing)
 [Tasks](https://publish.obsidian.md/tasks/)
 [Templater](https://github.com/SilentVoid13/Templater)
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+
 
 ## 🗃️Последние изменения файлов
 ```dataviewjs
