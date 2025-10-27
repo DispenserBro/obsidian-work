@@ -2,6 +2,8 @@
 tags:
   - daily
 ---
+[[root|Корневая заметка]]
+[[Индекс заметок]]
 
 # День: {{date:dddd, DD MMM YYYY}}
 

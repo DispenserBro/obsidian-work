@@ -29,6 +29,21 @@
 [Аудиокниги клуб](https://akniga.org)
 [Книга в ухе](https://knigavuhe.org)
 
+### Ссылки на документацию плагинов
+
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+[Better Export PDF](https://github.com/l1xnan/obsidian-better-export-pdf)
+[Calendar](https://github.com/liamcain/obsidian-calendar-plugin/wiki)
+[Callout Manager](https://github.com/eth-p/obsidian-callout-manager/wiki)
+[Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+[]()
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+
+
 ## 🗃️Последние изменения файлов
 ```dataviewjs
 dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)
