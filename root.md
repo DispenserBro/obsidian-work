@@ -40,6 +40,7 @@
 [Docxer](https://github.com/Developer-Mike/obsidian-docxer)
 [Editing Toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
 [Emoji Toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar)
+[Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 [Execute Code](https://github.com/twibiral/obsidian-execute-code)
 [Extended Task Lists](https://github.com/joeriddles/extended-task-lists)
 [Git](https://github.com/Vinzent03/obsidian-git)
