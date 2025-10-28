@@ -45,7 +45,7 @@
 [Extended Task Lists](https://github.com/joeriddles/extended-task-lists)
 [Git](https://github.com/Vinzent03/obsidian-git)
 [Homepage](https://github.com/mirnovov/obsidian-homepage)
-[Iconize](https://florianwoelki.github.io/obsidian-iconize/)
+[Iconic](https://github.com/gfxholo/iconic)
 [Image Captions](https://github.com/alangrainger/obsidian-image-captions)
 [Kanban](https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin)
 [make.md](https://www.make.md)
@@ -56,7 +56,6 @@
 [Tasks](https://publish.obsidian.md/tasks/)
 [Templater](https://github.com/SilentVoid13/Templater)
 [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
-
 
 ## 🗃️Последние изменения файлов
 ```dataviewjs
