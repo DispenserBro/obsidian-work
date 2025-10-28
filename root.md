@@ -29,6 +29,34 @@
 [Аудиокниги клуб](https://akniga.org)
 [Книга в ухе](https://knigavuhe.org)
 
+### Ссылки на документацию плагинов
+
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+[Better Export PDF](https://github.com/l1xnan/obsidian-better-export-pdf)
+[Calendar](https://github.com/liamcain/obsidian-calendar-plugin/wiki)
+[Callout Manager](https://github.com/eth-p/obsidian-callout-manager/wiki)
+[Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+[Dataview Serializer](https://developassion.gitbook.io/obsidian-dataview-serializer)
+[Docxer](https://github.com/Developer-Mike/obsidian-docxer)
+[Editing Toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
+[Emoji Toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar)
+[Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+[Execute Code](https://github.com/twibiral/obsidian-execute-code)
+[Extended Task Lists](https://github.com/joeriddles/extended-task-lists)
+[Git](https://github.com/Vinzent03/obsidian-git)
+[Homepage](https://github.com/mirnovov/obsidian-homepage)
+[Iconic](https://github.com/gfxholo/iconic)
+[Image Captions](https://github.com/alangrainger/obsidian-image-captions)
+[Kanban](https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin)
+[make.md](https://www.make.md)
+[MetaEdit](https://github.com/chhoumann/MetaEdit)
+[Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc)
+[Style Seetings](https://github.com/mgmeyers/obsidian-style-settings)
+[Surfing](https://github.com/PKM-er/Obsidian-Surfing)
+[Tasks](https://publish.obsidian.md/tasks/)
+[Templater](https://github.com/SilentVoid13/Templater)
+[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+
 ## 🗃️Последние изменения файлов
 ```dataviewjs
 dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)
