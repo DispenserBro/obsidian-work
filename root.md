@@ -58,11 +58,13 @@
 [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
 
 ## 🗃️Последние изменения файлов
+
 ```dataviewjs
 dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)
 ```
 
 ## Текущие задачи
+
 ```tasks
 path does not include Рабочие задачи
 path does not include Шаблоны
@@ -72,6 +74,9 @@ not done
 
 ## Инфо об игре
 
-![[Новая структура уровня.png|Структура уровня]]
-
 [[Игра Danro.canvas|Холст с инфой об игровых уровнях]]
+
+![[Структура сцены.png|Структура сцены]]
+
+![[Структура уровня.png|Структура уровня]]
+
