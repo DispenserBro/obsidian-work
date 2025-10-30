@@ -69,7 +69,6 @@ dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)
 path does not include Рабочие задачи
 path does not include Шаблоны
 path does not include Мысли
-path includes Ежедневные заметки
 not done
 show tree
 short mode
