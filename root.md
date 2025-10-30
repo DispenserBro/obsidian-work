@@ -70,6 +70,7 @@ path does not include Рабочие задачи
 path does not include Шаблоны
 path does not include Мысли
 not done
+show tree
 ```
 
 ## Инфо об игре

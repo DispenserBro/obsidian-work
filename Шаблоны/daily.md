@@ -16,6 +16,8 @@ path does not include Рабочие задачи
 path does not include Шаблоны
 not done
 due before {{date:YYYY-MM-DD}}
+show tree
+hide backlink
 ```
 
 ### 📆 Сегодня
@@ -25,6 +27,8 @@ path does not include Рабочие задачи
 path does not include Шаблоны
 not done
 due on {{date:YYYY-MM-DD}}
+show tree
+hide backlink
 ```
 
 ### ⏩ В ближайшую неделю
@@ -34,7 +38,9 @@ path does not include Рабочие задачи
 path does not include Шаблоны
 not done
 due after {{date:YYYY-MM-DD}}
-due before {{date+14d:YYYY-MM-DD}}
+due before {{date+7d:YYYY-MM-DD}}
+show tree
+hide backlink
 ```
 
 ### ❎ Без срока
@@ -44,6 +50,8 @@ path does not include Рабочие задачи
 path does not include Шаблоны
 not done
 no due date
+show tree
+hide backlink
 ```
 
 ### ✅ Сделаны сегодня
@@ -51,8 +59,9 @@ no due date
 ```tasks
 path does not include Рабочие задачи
 path does not include Шаблоны
-
 done on {{date:YYYY-MM-DD}}
+show tree
+hide backlink
 ```
 
 ## TODO
