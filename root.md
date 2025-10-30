@@ -71,6 +71,7 @@ path does not include Шаблоны
 path does not include Мысли
 not done
 show tree
+short mode
 ```
 
 ## Инфо об игре
