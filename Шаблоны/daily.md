@@ -9,10 +9,50 @@ tags:
 
 ## PENDING
 
+### 🕙 Просроченные
+
 ```tasks
 path does not include Рабочие задачи
 path does not include Шаблоны
 not done
+due before {{date:YYYY-MM-DD}}
+```
+
+### 📆 Сегодня
+
+```tasks
+path does not include Рабочие задачи
+path does not include Шаблоны
+not done
+due on {{date:YYYY-MM-DD}}
+```
+
+### ⏩ В ближайшую неделю
+
+```tasks
+path does not include Рабочие задачи
+path does not include Шаблоны
+not done
+due after {{date:YYYY-MM-DD}}
+due before {{date+14d:YYYY-MM-DD}}
+```
+
+### ❎ Без срока
+
+```tasks
+path does not include Рабочие задачи
+path does not include Шаблоны
+not done
+no due date
+```
+
+### ✅ Сделаны сегодня
+
+```tasks
+path does not include Рабочие задачи
+path does not include Шаблоны
+
+done on {{date:YYYY-MM-DD}}
 ```
 
 ## TODO
