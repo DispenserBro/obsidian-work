@@ -66,7 +66,7 @@ short mode
 
 ## TODO
 
-- [ ] Рефакторинг кода!
+- [ ] Рефакторинг кода! 📅 {{date:YYYY-MM-DD}}
 - [ ] Задача 1
 
 ## CHANGELOG
