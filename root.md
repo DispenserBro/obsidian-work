@@ -26,7 +26,7 @@
 ### Ссылки на сайты для фона
 
 [Youtube](https://youtube.com)
-[Аудиокниги клуб](https://akniga.org)
+[Аудиокниги клуб](https://akniga.org/?use-skin=latest)
 [Книга в ухе](https://knigavuhe.org)
 
 ### Ссылки на документацию плагинов
