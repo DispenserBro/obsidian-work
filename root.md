@@ -6,7 +6,7 @@
 
 [Robotail](https://robotail.ru)
 
-`VIEW[{linkExampleProperty}][link]`
+`VIEW[{Свалка}][link]`
 ## Навигация
 
 1. [[#Меню на сегодня]]
