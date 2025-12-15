@@ -17,13 +17,11 @@
 5. [[#Инфо об игре]]
 
 ```activity-graph
-title: Выполненные рабочие зада
+title: Выполненные рабочие задачи
 style: commitGraph
 period: 6months
-tasks: false
+tasks: true
 highlightToday: true
-highlightColor: #ff6b6b
-colors: ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 ```
 ## Меню на сегодня
 
