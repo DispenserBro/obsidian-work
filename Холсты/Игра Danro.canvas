@@ -22,19 +22,19 @@
 		{"id":"ea7b78c1b62afd78","type":"file","file":"img/Структура сцены.png","x":-3452,"y":-1408,"width":240,"height":314},
 		{"id":"012d04f85e1c0c3e","type":"file","file":"img/Структура уровня.png","x":-3026,"y":-1413,"width":280,"height":325},
 		{"id":"fdff7663161fb2f8","type":"file","file":"img/Предварительный_план_первого_уровня.jpg","x":-1400,"y":-2770,"width":951,"height":276},
-		{"id":"d7fd8071e148443a","type":"text","text":"14.10.25\nЛеха предложил новую структуру 1 уровня (и 1 локации)","x":-2065,"y":-2682,"width":620,"height":100},
 		{"id":"9fac47c14e1ad273","type":"text","text":"Зона 5","x":-1545,"y":-1840,"width":250,"height":60},
 		{"id":"2152bcfe11bde82f","type":"text","text":"Зона 4","x":-778,"y":-1840,"width":250,"height":60},
 		{"id":"39d1fcce03374f97","type":"file","file":"img/Pasted image 20251022135659.png","x":-935,"y":-1710,"width":564,"height":326},
 		{"id":"aa38fa987c6afbfc","type":"file","file":"img/Pasted image 20251022135750.png","x":-1781,"y":-1681,"width":721,"height":268},
 		{"id":"341e2de260af44c4","type":"text","text":"Общий вид уровня","x":-340,"y":-2661,"width":250,"height":60},
 		{"id":"02794f1c858090f8","type":"file","file":"img/Pasted image 20251022144731.png","x":-20,"y":-2815,"width":961,"height":369},
+		{"id":"b693e9c26d8df202","type":"file","file":"img/Pasted image 20251020165731.png","x":-487,"y":-2220,"width":467,"height":327},
 		{"id":"546f1143869dc79a","type":"text","text":"Зона 3 (Была зоной 5)","x":-389,"y":-2350,"width":271,"height":60},
 		{"id":"90ec22fdbe315bf2","type":"file","file":"img/Pasted image 20251020165506.png","x":-2065,"y":-2220,"width":722,"height":327},
 		{"id":"3b4f885d0e9788f6","type":"text","text":"Зона 1","x":-1829,"y":-2360,"width":250,"height":60},
 		{"id":"939c6032dde46bff","type":"file","file":"img/Pasted image 20251020165620.png","x":-1292,"y":-2220,"width":716,"height":327},
 		{"id":"f7989a46eac7169c","type":"text","text":"Зона 2","x":-1059,"y":-2360,"width":250,"height":60},
-		{"id":"b693e9c26d8df202","type":"file","file":"img/Pasted image 20251020165731.png","x":-487,"y":-2220,"width":467,"height":327}
+		{"id":"d7fd8071e148443a","type":"text","text":"14.10.25\nЛеха предложил новую структуру 1 уровня (и 1 локации)","x":-2065,"y":-2690,"width":620,"height":100}
 	],
 	"edges":[
 		{"id":"197f74a5d1d14b1c","fromNode":"d7fd8071e148443a","fromSide":"right","toNode":"fdff7663161fb2f8","toSide":"left"},
