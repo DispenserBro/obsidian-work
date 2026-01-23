@@ -71,6 +71,7 @@ short mode
 ## TODO
 
 - [ ] Рефакторинг кода! 📅 {{date:YYYY-MM-DD}}
+- [ ] Работа над приложением с 15:00 до 17:00 📅 {{date:YYYY-MM-DD}}
 - [ ] Задача 1
 
 ## CHANGELOG
